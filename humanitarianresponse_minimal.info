@@ -1,0 +1,7 @@
+name = Humanitarianresponse Minimal
+description = Use this to create a custom Humanitarianresponse site
+core = 7.x
+
+dependencies[] = humanitarianresponse_core
+dependencies[] = humanitarianresponse_page
+
