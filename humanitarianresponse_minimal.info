@@ -5,3 +5,4 @@ core = 7.x
 dependencies[] = humanitarianresponse_core
 dependencies[] = humanitarianresponse_page
 dependencies[] = humanitarianresponse_minimal_layout
+dependencies[] = humanitarianresponse_users
